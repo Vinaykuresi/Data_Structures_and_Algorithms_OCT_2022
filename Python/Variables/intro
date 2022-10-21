@@ -59,7 +59,52 @@ Types of Variables :
         created outside a function
 
 
+Operators : 
 
+    1) Arithematic Operators : 
+
+            ex : +,-,/,*,%
+
+    2) Relational Operators : 
+
+            ex : ==, !=, >, <, >=, <=
+
+        ex : 5 + 4 * 9 % ( 3 + 1 ) / 6 - 1
+
+    3) Assignment Operators : 
+
+            ex : =, +=, -=, *=, /=, %=
+
+    4) Logical Operators : 
+
+            ex : And, Or, Not 
+
+    Logical Operators : 
+
+        And gate : 
+        A      B     A and B 
+        T      T        T 
+        T      F        F 
+        F      T        F 
+        F      F        F 
+
+        Or gate :
+        A      B    A or B 
+        T      T      T 
+        T      F      T 
+        F      T      T 
+        F      F      F 
+
+        Not :
+
+        A    Not A 
+        T     F 
+        F     T 
+Not(Not(T))   T 
+
+
+
+    
 
 
 

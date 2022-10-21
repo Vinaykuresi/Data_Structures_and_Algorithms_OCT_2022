@@ -1,8 +1,0 @@
-
-1) Calculate the Area of the Right angled Traingle.
-
-2) Calculate the Hypotenuse of the Traingle.
-
-    input
-    process
-    output

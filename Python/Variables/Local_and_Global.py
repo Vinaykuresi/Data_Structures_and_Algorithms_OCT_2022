@@ -7,6 +7,7 @@ def baggage_weight_check(baggage_weight):
     global wt_limit
     wt_limit = 30
     print(wt_limit)
+    
     if(baggage_weight > wt_limit):
         extra_luaggage_weight = baggage_weight - wt_limit
         extra_luaggage_charge = extra_luaggage_weight * 100
