@@ -102,6 +102,16 @@ Operators :
         F     T 
 Not(Not(T))   T 
 
+assignment : 
+
+    5 + 4 * 9 % ( 3 + 1 ) / 6 - 1
+
+    BODMAS
+     B -> Brackets -> 1
+     O -> Power and Root -> 2
+     DM -> Division and Multiplication -> 3
+     AS -> Addition and Subtractioin -> 4
+
 
 
     
