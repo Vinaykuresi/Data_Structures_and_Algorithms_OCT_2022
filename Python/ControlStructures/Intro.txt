@@ -1,0 +1,30 @@
+
+Control Structures : 
+
+    1) Sequential Structure 
+
+        num1 = 30
+        num2 = 40
+        
+        sum = num1 + num2 
+
+        print(sum)
+   
+    2) Selection Structure : 
+
+        person = "good"
+
+        if(person == "good") :
+            print("Make him friend)
+        else :
+            print("Keep him away")
+
+            ex : if, if else, if elif else 
+
+    3) Iteration Structure : 
+
+        keep loop(Iteration):
+            execute statements
+        until conditon fails 
+
+            ex:  for, while
